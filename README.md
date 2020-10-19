@@ -3,7 +3,7 @@ Fighting Fantasy Engine, you just need to add your pictures, sounds and text fil
 
 Please feel free to contribute to it's development.  Done for Windows only (C# WinForms with the .Net Framework 4.7.2).  Minimum resolution : 1024 x 768.
 
-Download the game (Engine) and double-click on "FightingFantasyWinFormsEngine.exe" (nothing to install, unzip and you're ready to play).  
+Download the game (Engine) using the "Go to file" button, unzip it and right-click on "FightingFantasyWinFormsEngine.exe" then choose properties and check the "unblock" option.  Now double-click on the FightingFantasyWinFormsEngine.exe to launch it.
 
 I suggest you to test it with the default files then come back here to understand the contents of the text files (*.txt)
 
