@@ -94,7 +94,7 @@ audio\\test.wav
 
 <ending_start>
 1
-(This will trigger a messagebox saying "Victory!", this is your final paragraph where the hero wins.  Put a 1 here only.)(When reaching the end (winning), gives only the option to return to paragraph 000, this will reinitialize the game)
+(This will trigger a messagebox saying "Victory!", this is your final paragraph where the hero wins.  Put a 1 here only.  When reaching the end (winning), gives only the option to return to paragraph 000, this will reinitialize the game)
 <ending_end>
 
 /**************************************/
